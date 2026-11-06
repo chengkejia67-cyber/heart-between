@@ -10,3 +10,5 @@
 /* Release additions: readable mobile text, image preview and safe loading fallback. */
 .card-preview{max-width:470px;width:100%;max-height:92dvh;overflow:auto;padding:24px}.card-preview h2{font-size:21px}.card-preview p{font-size:12px;margin-bottom:16px}.card-preview img{display:block;max-width:100%;max-height:55dvh;margin:0 auto 20px;object-fit:contain;border:1px solid var(--line)}.card-preview .actions{gap:9px;justify-content:center}.card-preview .btn{font-size:12px;padding:10px 16px}.startup-error{max-width:530px;margin:16vh auto;text-align:center}.startup-error h1{font:30px/1.6 var(--serif);margin:24px 0 14px}.startup-error p{color:var(--muted);margin-bottom:27px}
 @media(max-width:720px){.dimension-tile p,.intro-item p,.meta,.question-context,.quiz-help{font-size:11px}.option,.metric p,.report-copy p{font-size:13px}.report-actions .btn{flex-basis:calc(50% - 14px)}.report-actions .btn:last-child{flex-basis:auto;max-width:none}.card-preview h2{font-size:20px}.nav-links .nav-link{font-size:11px}.local-note{line-height:1.8}}
+
+.attitude-grid{margin-top:16px;margin-bottom:32px}.attitude-grid .eyebrow{font-size:10px;margin-bottom:12px}
